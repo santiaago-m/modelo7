@@ -1,0 +1,7 @@
+requeriment 
+streamlit
+numpy
+catboost
+scikit-learn
+sklearn
+pickle
